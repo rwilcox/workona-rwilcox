@@ -1,0 +1,277 @@
+
+				{
+					"title": "Google Cloud Functions",
+					"color": "teal",
+					"tabs": [
+						{
+							"title": "ES Modules in Cloud Functions. ES modules are a TC39 standard… | by Grant Timmerman | Google Cloud - Community | Medium",
+							"url": "https://medium.com/google-cloud/es-modules-in-cloud-functions-f5be1676c8b5"
+						},
+						{
+							"title": "Deploy a Cloud Function  |  Cloud Functions Documentation  |  Google Cloud",
+							"url": "https://cloud.google.com/functions/docs/deploy"
+						},
+						{
+							"title": "functions-framework-nodejs/typescript.md at master · GoogleCloudPlatform/functions-framework-nodejs · GitHub",
+							"url": "https://github.com/GoogleCloudPlatform/functions-framework-nodejs/blob/master/docs/typescript.md"
+						},
+						{
+							"title": "Building a Node.js application  |  Buildpacks  |  Google Cloud",
+							"url": "https://cloud.google.com/docs/buildpacks/nodejs#executing_custom_build_steps_during_deployment"
+						},
+						{
+							"title": "Cloud Functions IAM Roles  |  Cloud Functions Documentation  |  Google Cloud",
+							"url": "https://cloud.google.com/functions/docs/reference/iam/roles"
+						},
+						{
+							"title": "functions-framework-nodejs/docs at master · GoogleCloudPlatform/functions-framework-nodejs · GitHub",
+							"url": "https://github.com/GoogleCloudPlatform/functions-framework-nodejs/tree/master/docs"
+						},
+						{
+							"title": "Function Identity  |  Cloud Functions Documentation  |  Google Cloud",
+							"url": "https://cloud.google.com/functions/docs/securing/function-identity#gcloud_1"
+						},
+						{
+							"title": "Using a private repo on Artifact Registry in Google Cloud Functions | Google Cloud Blog",
+							"url": "https://cloud.google.com/blog/topics/developers-practitioners/using-private-repo-artifact-registry-google-cloud-functions"
+						},
+						{
+							"title": "How To Deploy Google Cloud Functions from CircleCI | Ryder Damen",
+							"url": "https://ryderdamen.com/blog/how-to-deploy-gcf-from-circleci/"
+						},
+						{
+							"title": "Developing GCP Cloud Functions locally with Typescript",
+							"url": "https://www.ashsmith.io/developing-gcp-cloud-functions-locally-with-typescript"
+						},
+						{
+							"title": "Sushant Dhiman | Continuous Deployment of Google Cloud Functions Written with TypeScript",
+							"url": "https://sushantdhiman.com/blog/2022/continuous-deployment-of-google-cloud-functions-written-with-typescript"
+						},
+						{
+							"title": "gcp-datastore-cloud-functions-realworld-example-app/index.js at master · gothinkster/gcp-datastore-cloud-functions-realworld-example-app",
+							"url": "https://github.com/gothinkster/gcp-datastore-cloud-functions-realworld-example-app/blob/master/index.js"
+						},
+						{
+							"title": "GoogleCloudPlatform/functions-framework-nodejs: FaaS (Function as a service) framework for writing portable Node.js functions",
+							"url": "https://github.com/GoogleCloudPlatform/functions-framework-nodejs"
+						},
+						{
+							"title": "How to define a Google Cloud Function with Typescript? - Stack Overflow",
+							"url": "https://stackoverflow.com/questions/58098852/how-to-define-a-google-cloud-function-with-typescript"
+						},
+						{
+							"title": "Specifying dependencies in Node.js  |  Cloud Functions Documentation  |  Google Cloud",
+							"url": "https://cloud.google.com/functions/docs/writing/specifying-dependencies-nodejs#using_private_modules"
+						},
+						{
+							"title": "circleci deploy cloud function - Google Search",
+							"url": "https://www.google.com/search?hl=en&q=circleci%20deploy%20cloud%20function#ip=1"
+						},
+						{
+							"title": "ryderdamen/circleci_deploy_google_cloud_function_example: An example (and tutorial) of how to deploy a Google Cloud Function with CircleCI.",
+							"url": "https://github.com/ryderdamen/circleci_deploy_google_cloud_function_example"
+						},
+						{
+							"title": "IAM basic and predefined roles reference  |  IAM Documentation  |  Google Cloud",
+							"url": "https://cloud.google.com/iam/docs/understanding-roles#cloud-domains-roles"
+						}
+					],
+					"resources": [
+						{
+							"title": "Resources",
+							"resources": [
+								{
+									"title": "Express Routing with Google Cloud Functions | by Grant Timmerman | Google Cloud - Community | Medium",
+									"url": "https://medium.com/google-cloud/express-routing-with-google-cloud-functions-36fb55885c68"
+								},
+								{
+									"title": "Building a Node.js application  |  Buildpacks  |  Google Cloud",
+									"url": "https://cloud.google.com/docs/buildpacks/nodejs#executing_custom_build_steps_during_deployment"
+								},
+								{
+									"title": "functions-framework-nodejs/docs at master · GoogleCloudPlatform/functions-framework-nodejs",
+									"url": "https://github.com/GoogleCloudPlatform/functions-framework-nodejs/tree/master/docs"
+								},
+								{
+									"title": "Deploy a Cloud Function  |  Cloud Functions Documentation  |  Google Cloud",
+									"url": "https://cloud.google.com/functions/docs/deploy"
+								},
+								{
+									"title": "Cloud Functions IAM Roles  |  Cloud Functions Documentation  |  Google Cloud",
+									"url": "https://cloud.google.com/functions/docs/reference/iam/roles"
+								},
+								{
+									"title": "functions-framework-nodejs/docs at master · GoogleCloudPlatform/functions-framework-nodejs",
+									"url": "https://github.com/GoogleCloudPlatform/functions-framework-nodejs/tree/master/docs"
+								},
+								{
+									"title": "Function Identity  |  Cloud Functions Documentation  |  Google Cloud",
+									"url": "https://cloud.google.com/functions/docs/securing/function-identity#gcloud_1"
+								},
+								{
+									"title": "Using a private repo on Artifact Registry in Google Cloud Functions | Google Cloud Blog",
+									"url": "https://cloud.google.com/blog/topics/developers-practitioners/using-private-repo-artifact-registry-google-cloud-functions"
+								},
+								{
+									"title": "How To Deploy Google Cloud Functions from CircleCI | Ryder Damen",
+									"url": "https://ryderdamen.com/blog/how-to-deploy-gcf-from-circleci/"
+								},
+								{
+									"title": "functions-framework-nodejs/typescript.md at master · GoogleCloudPlatform/functions-framework-nodejs",
+									"url": "https://github.com/GoogleCloudPlatform/functions-framework-nodejs/blob/master/docs/typescript.md"
+								}
+							]
+						}
+					],
+					"notes": [
+						{
+							"title": "Deploying",
+							"notes": [
+								{
+									"title": "Deployment questions and answers",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"How to access private NPM registries on Artifact Registry?",
+											"If they are in separate projects you need to give the default cloud build service account Artifact Reader to that repo. Note that this is NOT the service account you're calling gcloud functions deploy with, as gcloud does some fancy use another service account stuff.",
+											"",
+											"Q: so where is the default cloud build service account?",
+											"A: gcloud functions deploy spits out serviceConfig YAML which lists serviceAccountEmail. This seems to be the default cloud build service account you need",
+											"",
+											"Alternatively,  just specify the authorization key for Cloud Build to use ??",
+											""
+										]
+									},
+									"attachments": [
+										{
+											"title": "Using private dependencies with Cloud Functions  |  Artifact Registry documentation  |  Google Cloud",
+											"url": "https://cloud.google.com/artifact-registry/docs/integrate-functions"
+										},
+										{
+											"title": "Using a private repo on Artifact Registry in Google Cloud Functions | Google Cloud Blog",
+											"url": "https://cloud.google.com/blog/topics/developers-practitioners/using-private-repo-artifact-registry-google-cloud-functions"
+										}
+									]
+								},
+								{
+									"title": "Best simple examples of deployment pipelines",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Q: Any example on doing this via CircleCI and what the account's privs need?",
+											"A: yes (see a link here)"
+										]
+									},
+									"attachments": [
+										{
+											"title": "How To Deploy Google Cloud Functions from CircleCI | Ryder Damen",
+											"url": "https://ryderdamen.com/blog/how-to-deploy-gcf-from-circleci/"
+										}
+									]
+								},
+								{
+									"title": "What NPM steps does gcloud function deploy run?",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+										    "From the logs",
+                                                                                    "```",
+											"    npm install --package-lock-only --quiet",
+											"    npm ci --quiet",
+											"    npm run build   <-- or can run gcp-build, if you have it",
+										    "    npm prune --production",
+                                                                                    "```",
+											""
+										]
+									},
+									"attachments": [
+										{
+											"title": "Note about npm run build during the build process",
+											"url": "https://cloud.google.com/functions/docs/concepts/nodejs-runtime"
+										},
+										{
+											"title": "NPM prune",
+											"url": "https://docs.npmjs.com/cli/v7/commands/npm-prune"
+										}
+									]
+								},
+								{
+									"title": "Customizing",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Customizing build process",
+											"Node",
+											"If you have a \"gcp-build\" build script Google will run that instead of npm run build.\n",
+											"\n"
+										]
+									},
+									"attachments": []
+								}
+							]
+						},
+						{
+							"title": "Local testing",
+							"notes": [
+								{
+									"title": "Getting it to work via ES modules",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"command I used:  `npx @google-cloud/functions-framework --source=dist/main/typescript/index.js --target=composeEndpoint`",
+											"",
+											"aka: point the source directory to the compiled javascript, not typescript",
+											"",
+											"make sure that target function is exported all the way in your index.js file at the top level (don't stop mid way!!!)"
+										]
+									},
+									"attachments": [
+										{
+											"title": "ES Modules in Cloud Functions. ES modules are a TC39 standard… | by Grant Timmerman | Google Cloud - Community | Medium",
+											"url": "https://medium.com/google-cloud/es-modules-in-cloud-functions-f5be1676c8b5"
+										}
+									]
+								},
+								{
+									"title": "Getting a target to work when you really want that to be a function",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"So you specify a --target to the function-framework as normal",
+											"",
+											" `npx @google-cloud/functions-framework --target=MyCloudFunction.app`",
+											"",
+											"Somewhere you export this:",
+										        "",
+                                                                                        "```",
+											"// Google's cloud function target parameter really expects a property, not calling a function",
+											"// BUT we want this to a bit dynamic, as we don't know, at file read time, if we want an Express",
+											"// app up (we might be using this as a CLI)",
+											"//",
+											"// So make a class, with a static getter function, and all that fancy means we have dynamic",
+											"// property - when ES6+ requests the \"app\" property it automatically executes the function found",
+											"// there and returns the result as the value of the property. Which is our Express middleware...",
+											"export class MyCloudFunction {",
+											"    static get app() {",
+											"        const app = express()",
+											"        return getRoutes(app)",
+											"",
+											"        return app",
+											"    }",
+										        "}",
+                                                                                        "```",
+											""
+										]
+									},
+									"attachments": []
+								}
+							]
+						}
+					],
+					"tasks": [
+						{
+							"title": "Tasks",
+							"tasks": []
+						}
+					]
+				}

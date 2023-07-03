@@ -14,7 +14,7 @@ export default function Home() {
             </div>
             <div class="grid grid-flow-row grid-cols-1">
                 <ul className="list-disc">
-                    <li key="/sample"><Link href="/sample">Sample</Link></li>
+                    <li key="/cloudFunctions"><Link href="/cloudFunctions">GCP Cloud Functions</Link></li>
                 </ul>
             </div>
       </Layout>
