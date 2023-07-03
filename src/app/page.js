@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import Link from 'next/link'
 
 import Layout from '../components/layout'
 
@@ -13,8 +12,9 @@ export default function Home() {
                 </div>
             </div>
             <div class="grid grid-flow-row grid-cols-1">
-                <ul className="list-disc">
-                    <li key="/cloudFunctions"><Link href="/cloudFunctions">GCP Cloud Functions</Link></li>
+            <ul className="list-disc">
+
+                    <li key="/cloudFunctions"><a href="/cloudFunctions">GCP Cloud Functions</a></li>
                 </ul>
             </div>
       </Layout>

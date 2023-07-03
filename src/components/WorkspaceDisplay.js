@@ -1,6 +1,5 @@
 
 import PropTypes from 'prop-types';
-import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 
 function displayLinkArray(title, urlAndTitles) {
@@ -8,7 +7,7 @@ function displayLinkArray(title, urlAndTitles) {
             <summary className="bg-inherit px-5 py-3 text-lg cursor-pointer">{`${title} (${urlAndTitles.length})`}</summary>
                 <ul className="list-disc"> {
                 (urlAndTitles ?? []).map( (currentResource) =>
-                        <li className="ml-10" key={currentResource.url}><Link href={currentResource.url}>{currentResource.title}</Link></li>
+                        <li className="ml-10" key={currentResource.url}><a href={currentResource.url}>{currentResource.title}</a></li>
                 )}
                 </ul>
                 </details>
@@ -57,6 +56,7 @@ function displayNotesArray(notesArray) {
                 if (current.attachments && (current.attachments.length > 0)) {
                     attachments = displayLinkArray(`${current.title} Attachments`, current.attachments)
                 }
+                // eslint-disable-next-line react/jsx-key
                 return (<div className="my-8">
                         <h1>{current.title}</h1>
                         {notes}
