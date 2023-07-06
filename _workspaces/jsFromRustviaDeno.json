@@ -1,0 +1,757 @@
+{
+
+					"title": "JS in Rust via deno_core",
+					"color": "magenta",
+					"tabs": [
+						{
+							"title": "Error in anyhow - Rust",
+							"url": "https://docs.rs/anyhow/1.0.71/anyhow/struct.Error.html"
+						},
+						{
+							"title": "Error in anyhow - Rust",
+							"url": "https://docs.rs/anyhow/1.0.71/anyhow/struct.Error.html"
+						},
+						{
+							"title": "Debugging your code | Manual | Deno",
+							"url": "https://deno.com/manual@v1.9.2/getting_started/debugging_your_code"
+						},
+						{
+							"title": "String in std::string - Rust",
+							"url": "https://doc.rust-lang.org/nightly/std/string/struct.String.html"
+						},
+						{
+							"title": "Array in v8 - Rust",
+							"url": "https://docs.rs/v8/0.73.0/v8/struct.Array.html"
+						},
+						{
+							"title": "OwnedIsolate in v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.1/v8/struct.OwnedIsolate.html"
+						},
+						{
+							"title": "When `--inspect` is passed, wait until connection before running? · Issue #12417 · denoland/deno",
+							"url": "https://github.com/denoland/deno/issues/12417"
+						},
+						{
+							"title": "4.4 Encode and decode - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/bridge/4.4-encode-and-decode"
+						},
+						{
+							"title": "guide/interaction-with-v8.md at master · denolib/guide · GitHub",
+							"url": "https://github.com/denolib/guide/blob/master/advanced/interaction-with-v8.md"
+						},
+						{
+							"title": "Invalid promise id with async code and deno_core · denoland/deno · Discussion #16563",
+							"url": "https://github.com/denoland/deno/discussions/16563"
+						},
+						{
+							"title": "javascript - How to understand JS realms - Stack Overflow",
+							"url": "https://stackoverflow.com/questions/49832187/how-to-understand-js-realms"
+						},
+						{
+							"title": "Roll your own JavaScript runtime",
+							"url": "https://deno.com/blog/roll-your-own-javascript-runtime#adding-a-basic-filesystem-api"
+						},
+						{
+							"title": "Roll your own JavaScript runtime, pt. 2",
+							"url": "https://deno.com/blog/roll-your-own-javascript-runtime-pt2"
+						},
+						{
+							"title": "More Components - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/codebase-basics/more-components"
+						},
+						{
+							"title": "5.3 Main program of Deno - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/foundations/main-program"
+						},
+						{
+							"title": "Example: Adding to Deno API - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/codebase-basics/example-adding-a-deno-api"
+						},
+						{
+							"title": "Interaction with V8 - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+						},
+						{
+							"title": "Roll your own JavaScript runtime, pt. 3",
+							"url": "https://deno.com/blog/roll-your-own-javascript-runtime-pt3"
+						},
+						{
+							"title": "How to use `Handle` `block_on` on a current thread runtime · tokio-rs/tokio · Discussion #4563",
+							"url": "https://github.com/tokio-rs/tokio/discussions/4563"
+						},
+						{
+							"title": "Interaction with V8 - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+						},
+						{
+							"title": "Dissecting Deno",
+							"url": "https://fettblog.eu/dissecting-deno/"
+						},
+						{
+							"title": "Object in v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.2/v8/struct.Object.html"
+						},
+						{
+							"title": "call async javascript function from rust · denoland/deno · Discussion #15378",
+							"url": "https://github.com/denoland/deno/discussions/15378"
+						},
+						{
+							"title": "Are there examples about js <--> rust call each other? · Issue #509 · denoland/rusty_v8",
+							"url": "https://github.com/denoland/rusty_v8/issues/509"
+						},
+						{
+							"title": "v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.2/v8/index.html"
+						},
+						{
+							"title": "Interaction with V8 - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+						},
+						{
+							"title": "HandleScope in v8 - Rust",
+							"url": "https://docs.rs/v8/0.72.0/v8/struct.HandleScope.html"
+						},
+						{
+							"title": "v8: V8 API Reference Guide",
+							"url": "https://v8docs.nodesource.com/node-0.8/index.html"
+						},
+						{
+							"title": "typescript property does not exist on type at DuckDuckGo",
+							"url": "https://duckduckgo.com/?q=typescript+property+does+not+exist+on+type&t=newext&atb=v302-1&ia=web"
+						},
+						{
+							"title": "Iterator in std::iter - Rust",
+							"url": "https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect"
+						},
+						{
+							"title": "Value in v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.0/v8/struct.Value.html"
+						},
+						{
+							"title": "Local in v8 - Rust",
+							"url": "https://docs.rs/v8/latest/v8/struct.Local.html"
+						},
+						{
+							"title": "4.4 Encode and decode - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/bridge/4.4-encode-and-decode"
+						},
+						{
+							"title": "Deno_Core: injecting a v8 variable into the runtime · denoland/deno · Discussion #19232",
+							"url": "https://github.com/denoland/deno/discussions/19232"
+						},
+						{
+							"title": "2139 cicd by rwilcox · Pull Request #7 · mdg-private/fedutils-build-plugins",
+							"url": "https://github.com/mdg-private/fedutils-build-plugins/pull/7"
+						},
+						{
+							"title": "5.8 JS Runtime - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/foundations/jsruntime"
+						},
+						{
+							"title": "Debugging your code | Manual | Deno",
+							"url": "https://deno.com/manual@v1.9.2/getting_started/debugging_your_code"
+						},
+						{
+							"title": "String in std::string - Rust",
+							"url": "https://doc.rust-lang.org/nightly/std/string/struct.String.html"
+						},
+						{
+							"title": "Array in v8 - Rust",
+							"url": "https://docs.rs/v8/0.73.0/v8/struct.Array.html"
+						},
+						{
+							"title": "OwnedIsolate in v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.1/v8/struct.OwnedIsolate.html"
+						},
+						{
+							"title": "When `--inspect` is passed, wait until connection before running? · Issue #12417 · denoland/deno",
+							"url": "https://github.com/denoland/deno/issues/12417"
+						},
+						{
+							"title": "4.4 Encode and decode - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/bridge/4.4-encode-and-decode"
+						},
+						{
+							"title": "guide/interaction-with-v8.md at master · denolib/guide · GitHub",
+							"url": "https://github.com/denolib/guide/blob/master/advanced/interaction-with-v8.md"
+						},
+						{
+							"title": "Invalid promise id with async code and deno_core · denoland/deno · Discussion #16563",
+							"url": "https://github.com/denoland/deno/discussions/16563"
+						},
+						{
+							"title": "javascript - How to understand JS realms - Stack Overflow",
+							"url": "https://stackoverflow.com/questions/49832187/how-to-understand-js-realms"
+						},
+						{
+							"title": "Roll your own JavaScript runtime",
+							"url": "https://deno.com/blog/roll-your-own-javascript-runtime#adding-a-basic-filesystem-api"
+						},
+						{
+							"title": "Roll your own JavaScript runtime, pt. 2",
+							"url": "https://deno.com/blog/roll-your-own-javascript-runtime-pt2"
+						},
+						{
+							"title": "More Components - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/codebase-basics/more-components"
+						},
+						{
+							"title": "5.3 Main program of Deno - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/foundations/main-program"
+						},
+						{
+							"title": "Example: Adding to Deno API - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/codebase-basics/example-adding-a-deno-api"
+						},
+						{
+							"title": "Interaction with V8 - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+						},
+						{
+							"title": "Roll your own JavaScript runtime, pt. 3",
+							"url": "https://deno.com/blog/roll-your-own-javascript-runtime-pt3"
+						},
+						{
+							"title": "How to use `Handle` `block_on` on a current thread runtime · tokio-rs/tokio · Discussion #4563",
+							"url": "https://github.com/tokio-rs/tokio/discussions/4563"
+						},
+						{
+							"title": "Interaction with V8 - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+						},
+						{
+							"title": "Dissecting Deno",
+							"url": "https://fettblog.eu/dissecting-deno/"
+						},
+						{
+							"title": "Object in v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.2/v8/struct.Object.html"
+						},
+						{
+							"title": "call async javascript function from rust · denoland/deno · Discussion #15378",
+							"url": "https://github.com/denoland/deno/discussions/15378"
+						},
+						{
+							"title": "Are there examples about js <--> rust call each other? · Issue #509 · denoland/rusty_v8",
+							"url": "https://github.com/denoland/rusty_v8/issues/509"
+						},
+						{
+							"title": "v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.2/v8/index.html"
+						},
+						{
+							"title": "Interaction with V8 - A Guide to Deno Core",
+							"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+						},
+						{
+							"title": "HandleScope in v8 - Rust",
+							"url": "https://docs.rs/v8/0.72.0/v8/struct.HandleScope.html"
+						},
+						{
+							"title": "v8: V8 API Reference Guide",
+							"url": "https://v8docs.nodesource.com/node-0.8/index.html"
+						},
+						{
+							"title": "5.8 JS Runtime - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/foundations/jsruntime"
+						},
+						{
+							"title": "typescript property does not exist on type at DuckDuckGo",
+							"url": "https://duckduckgo.com/?q=typescript+property+does+not+exist+on+type&t=newext&atb=v302-1&ia=web"
+						},
+						{
+							"title": "Iterator in std::iter - Rust",
+							"url": "https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect"
+						},
+						{
+							"title": "Value in v8 - Rust",
+							"url": "https://docs.rs/v8/0.71.0/v8/struct.Value.html"
+						},
+						{
+							"title": "Local in v8 - Rust",
+							"url": "https://docs.rs/v8/latest/v8/struct.Local.html"
+						},
+						{
+							"title": "4.4 Encode and decode - The Internals of Deno",
+							"url": "https://choubey.gitbook.io/internals-of-deno/bridge/4.4-encode-and-decode"
+						},
+						{
+							"title": "Deno_Core: injecting a v8 variable into the runtime · denoland/deno · Discussion #19232",
+							"url": "https://github.com/denoland/deno/discussions/19232"
+						}
+					],
+                                       "resources": [
+                                                  {
+							"title": "Read these to get context to understand the sample code",
+							"resources": [
+								{
+									"title": "Simple walkthough of using JS in Node",
+									"description": "",
+									"url": "https://austinpoor.com/blog/js-in-rs"
+								},
+								{
+									"title": "Roll your own JavaScript runtime",
+									"url": "https://deno.com/blog/roll-your-own-javascript-runtime"
+								},
+								{
+									"title": "Roll your own JavaScript runtime, pt. 2",
+									"url": "https://deno.com/blog/roll-your-own-javascript-runtime-pt2"
+								},
+								{
+									"title": "Roll your own JavaScript runtime, pt. 3",
+									"url": "https://deno.com/blog/roll-your-own-javascript-runtime-pt3"
+								},
+								{
+									"title": "Infrastructure - A Guide to Deno Core",
+									"url": "https://denolib.gitbook.io/guide/codebase-basics/infrastructure"
+								},
+								{
+									"title": "5.8 JS Runtime - The Internals of Deno",
+									"url": "https://choubey.gitbook.io/internals-of-deno/foundations/jsruntime"
+								},
+								{
+									"title": "Dissecting Deno",
+									"url": "https://fettblog.eu/dissecting-deno/"
+								},
+								{
+									"title": "Questions about embedding deno · denoland/deno · Discussion #9595",
+									"url": "https://github.com/denoland/deno/discussions/9595#discussioncomment-402934"
+								},
+								{
+									"title": "javascript - How to understand JS realms",
+									"url": "https://stackoverflow.com/questions/49832187/how-to-understand-js-realms"
+								},
+								{
+									"title": "Interaction with V8 - A Guide to Deno Core",
+									"url": "https://denolib.gitbook.io/guide/advanced/interaction-with-v8"
+								},
+								{
+									"title": "5.3 Main program of Deno - The Internals of Deno",
+									"url": "https://choubey.gitbook.io/internals-of-deno/foundations/main-program"
+								}
+							]
+                                       },
+                                           {
+							"title": "Doing useful things with it",
+							"resources": [
+								{
+									"title": "Get JsRuntime execution output · denoland/deno · Discussion #12635",
+									"url": "https://github.com/denoland/deno/discussions/12635"
+								},
+								{
+									"title": "call async javascript function from rust · denoland/deno · Discussion #15378",
+									"url": "https://github.com/denoland/deno/discussions/15378"
+								},
+								{
+									"title": "Deno_Core: injecting a v8 variable into the runtime · denoland/deno · Discussion #19232",
+									"url": "https://github.com/denoland/deno/discussions/19232"
+								}
+							]
+				       },
+						{
+							"title": "Reference Guide",
+							"resources": [
+								{
+									"title": "v8 - Rust",
+									"url": "https://docs.rs/v8/0.71.2/v8/index.html"
+								},
+								{
+									"title": "deno_core - Rust",
+									"url": "https://docs.rs/deno_core/latest/deno_core/"
+								},
+								{
+									"title": "v8: V8 API Reference Guide",
+									"url": "https://v8docs.nodesource.com/node-0.8/index.html"
+								}
+							]
+						},
+						{
+							"title": "Digging into Rusty v8",
+							"resources": [
+								{
+									"title": "Object in v8 - Rust",
+									"url": "https://docs.rs/v8/0.71.2/v8/struct.Object.html"
+								},
+								{
+									"title": "Array in v8 - Rust",
+									"url": "https://docs.rs/v8/0.73.0/v8/struct.Array.html"
+								}
+							]
+						},
+
+						{
+							"title": "I don't know what I'm doing dog",
+							"resources": [
+								{
+									"title": "How to use `Handle` `block_on` on a current thread runtime · tokio-rs/tokio · Discussion #4563",
+									"url": "https://github.com/tokio-rs/tokio/discussions/4563"
+								},
+								{
+									"title": "Using logger in Deno | Tech Tonic",
+									"url": "https://medium.com/deno-the-complete-reference/using-logger-in-deno-44c5b2372bf3"
+								}
+							]
+						}
+
+					],
+					"notes": [
+						{
+							"title": "Notes",
+							"notes": [
+								{
+									"title": "Code samples: using JsRuntime",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"## JsRuntime",
+											"`execute_script` execution takes place on the current global context, so it is possible\nto maintain local JS state and invoke this method multiple times.",
+											"",
+											"In general I focused on methods that work on plain old Javascript - passing things directly to V8 - vs giving Typescript to Deno to compile Typescript (and resolve Deno dependencies) for. ",
+											"",
+											"## execute_script",
+											"Executes JS in the global realm. (According to the spec JS needs to be executed in realms, it's somewhat a detail we can ignore)",
+											"",
+											"The most simple way to execute JS via Deno in Rust (thanks, IIFC):",
+										    "",
+                                                                                    "```rust",
+											" pub async fn do_very_simple(&self) -> String {",
+											"      let mut runtime = JsRuntime::new(Default::default());",
+										    "        let res = runtime.execute_script_static(\n        \"name_of_the_thing_not_to_be_javascript\",",
+											"           \"(function foo() { return \\\"from the javascript iifc\\\"})()\")",
+											"        .expect(\"error\");",
+											"",
+											"       let str = res.open(runtime.v8_isolate())",
+											"            .to_rust_string_lossy(&mut runtime.handle_scope());",
+											"        str",
+											"    }",
+										    "",
+                                                                                    "```",
+											"the first parameter is a name for the binding that's going on (?) It is NOT ie the name of the function to be called, or Javascript to be executed. Get to that in a minute.",
+											"",
+											"The results from execute_script will be result of the last line of script. (Remember, not all syntax in Javascript return results...)",
+											" It is a `v8Struct::Value` object which gives us an interface for going from dynamically typed Javascript objects to statically typed Rust objects, with additional functions for operations on the returned object. Better examples of production grade using of the resulting object later....",
+											"",
+											"A slightly more complex and more real world example: putting our IIFC in a seperate file (nobody likes two languages in the same file, looking at you React)",
+										        "```rust",
+											" pub async fn do_from_file(&self) -> String {",
+											"      let mut runtime = JsRuntime::new(Default::default());",
+											"        let res = runtime.execute_script_static(\"name_of_the_thing_not_to_be_javascript\",",
+											"                                      include_str!(\"file.js\"))",
+											"        .expect(\"error\");",
+											"       let str = res.open(runtime.v8_isolate())",
+											"            .to_rust_string_lossy(&mut runtime.handle_scope());",
+											"        str",
+											"    }",
+										        "",
+                                                                                        "```",
+										    "the [include_string](https://doc.rust-lang.org/std/macro.include_str.html) function call? It pulls the file in at build time and saves it as a string in the binary, and then at execution time will use that (now static!) string",
+											"",
+											"",
+										    "## Q: Calling functions with parameters via execute_script (step one: doing it easily / badly) ",
+											"... after you've set up your Rust template project....",
+											"",
+										    "the contents of index.js is:",
+                                                                                    "```javascript",
+											"function echoInput(input) {",
+											"  return input;",
+											"}",
+										    "",
+                                                                                    "```",
+										    "here we are calling it in Rust:",
+                                                                                    "```rust",
+											"      let mut runtime = JsRuntime::new(Default::default());",
+											"      runtime.execute_script_static(\"set_var\", \"var myInput = \\\"hello from Rust\\\"\")",
+											"// we are first adding our variable into the runtime of JS",
+											"      runtime.execute_script_static(\"bring in body\", include_str!(\"index.js\"));",
+											"// and now bringing in the script definition of functions we might want to call....",
+											"// then we call it! with the variable we defined earlier as a parameter!",
+											"      match runtime.execute_script_static(\"name_of_the_thing_not_to_be_javascript\", \"echoInput(myInput)\") {",
+											"          Ok(res) => {",
+											"              print!(\"finished successfully\\n\");",
+											"              res.open(runtime.v8_isolate())",
+											"                  .to_rust_string_lossy(&mut runtime.handle_scope())",
+											"          }",
+											"          Err(e) => {",
+											"              print!(\"error!\");",
+											"              print!(\"{}\", e);",
+											"              \"no\".to_string()",
+											"          }",
+											"      }",
+										    "",
+                                                                                    "```",
+											"We handle the result of the `execute_script_static` with a pattern match, checking the `Result` that comes back. In later examples we'll mostly ignore this, opting for the \"panic if there's an error\" `.expect`. (\"expect this will work, or panic with an error message\" is how I read that function).",
+											"",
+											"## Huh this seems not great, string injecting some parameter into a JavaScript source....",
+											"No, it's not really!",
+											"",
+											"Luckily we can define methods in Rust/Deno Core that are callable via Javascript! Let's create a simple reimplentation of a command that appends some extra stuff to a passed in string... in Rust. By default - although this can be changed - these live on Deno.core.ops.",
+											"",
+											"An interesting thing is that this object may be special, I'm not sure if calls to undefined methods here error on the JS side.",
+										        "",
+                                                                                    "```rust",
+											"#[op]",
+											"fn op_test_data_in_out(_: &mut OpState, message: String) -> String {",
+											"        return message + \"... and here's more\"",
+											"}",
+										    "",
+                                                                                    "```",
+										    "technically I think functions decorated with the [deno_core::op macro](https://docs.rs/deno_core/latest/deno_core/macro.ops.html) should return a `Result< T, Error >`. We'll ignore that here, whatever, String seems to work for our play here.",
+											"",
+										    "Let's set up the runtime instance....",
+                                                                                    "```rust",
+											"        let ext = Extension::builder(\"my_ext\")",
+											"            .ops(vec![",
+											"                // An op for summing an array of numbers",
+											"                // The op-layer automatically deserializes inputs",
+											"                // and serializes the returned Result & value",
+											"                op_test_data_in_out::decl()",
+											"            ])",
+											"        .build();",
+											"      let mut runtime = JsRuntime::new( RuntimeOptions{  extensions: vec![ext], ..Default::default()});",
+											"      let res = runtime.execute_script_static(\"name_of_the_thing_not_to_be_javascript\",",
+											"                      \"(function foo() { return Deno.core.ops.op_test_data_in_out(\\\"hello from JS\\\")})()\")",
+											"        .expect(\"error\");",
+										    "",
+                                                                                    "```",
+											"Should return \"hello from JS... and here's more\".",
+											"",
+											"Here I'm using a standalone function as I don't know the Rust magic to refer to a Rust method (object) in a class (and pass the correct self). But this should be possible.\n",
+											"## But ummm what about the event loop / asynchronous Javascript code?",
+											"",
+											"`JsRuntime::run_event_loop` is a future that resolves when there are no more async ops pending and users are expected to call it manually after executing script or module.",
+										    "[Source](https://github.com/denoland/deno/discussions/9595#discussioncomment-402934) ",
+											"",
+											"On the Typescript side (sample.js), if we have a function like so:",
+											"async function asyncDemo() {",
+											"   return await \"hello world after a time\"",
+											"}",
+											"",
+											"",
+											"On the Rust side....",
+										    "We can not just execute_script_static give it a \"await someAsyncFunction\" string, for a number of reasons. The first one being this will give you a Javascript syntax error. You must call the function by itself and deal with the promise object returned by the function (ie: using the promise API directly, not using the syntax sugar provided by `await`).",
+											"",
+										    "BUT on the Rust side we also need to set ourselves up to handle the eventual return of the Javascript promise. Turns out we need to use Threads and the [Tokio Rust asynchronous scheduler](https://tokio.rs/) (which also provides green threads).",
+											"",
+											"However, as a learner I'm not sure these patterns are in the correct order. (I think so, based on some sample code I've seen laying around, but I'm new to team crab)",
+											"",
+											"      let handle = std::thread::spawn(move || {",
+											"            let tokio_runtime = tokio::runtime::Builder::new_current_thread()",
+											"                .enable_all()",
+											"                .build()",
+											"                .unwrap();",
+											"",
+										    "Remember this Tokio thing, it will come into play later. Also note there's going to be two separate things named Runtime here: the JSRuntime and the [Tokio Runtime](https://docs.rs/tokio/latest/tokio/runtime/struct.Runtime.html). (And also an OS level thread going on, also explained later).",
+											"",
+											"\t\t\t  // load our source script",
+											"          runtime.execute_script_static(\"bring in body\", include_str!(\"sample.js\"));",
+											"          let future = async move {",
+											"            match runtime.execute_script_static(\"fun\", \"asyncDemo()\") {",
+											"                Ok(res) => {",
+											"\t\t\t\t        let value = res.open(runtime.v8_isolate());",
+											"",
+											"Note that value is a v8::Value object again. Since ECMAScript's async / await support is syntactical sugar over ECMAScript promises, we can validate we have a promise (a bit of runtime type checking never hurt noone)",
+											"",
+											"\t\t\t\t\t\t   if (value.is_promise()) {",
+											"                    \tprint!(\"yes it is a promise\\n\");",
+											"\t\t\t\t\t\t\t}",
+											"",
+											"But, since it IS a promise, it will resolve sometime later in the future. asynchronously For our example here we'll simplify some larger patterns around channels and just wait around for the value.",
+											"",
+											"                    // we know it's a promise! Wait for the runtime to resolve the value",
+											"\t\t\t\t\t\t\t// inside the promise (this automatically runs the event loop and ",
+											"\t\t\t\t\t\t\t// handles value resolution or oops event loop done)",
+											"                    let promise_result = runtime.resolve_value(res).await;",
+											"\t\t\t\t\t\t\tpromise_result.expect(\"error discovered in promise\")",
+											"\t\t\t\t\t\t\t\t.open(runtime.v8_isolate()).to_rust_string_lossy(&mut runtime.handle_scope())",
+											"\t\t\t\t\t}",
+											"\t\t\t\t}",
+											"",
+											"Now promise_result is the same we've seen elsewhere, and the result of opening the result will be our resolved promise.",
+											"",
+											"RUST NEWBIE SYNTAX BREAK",
+											"",
+										    "In Rust the last statement is returned from a {} block but ONLY if the last statement lacks a semi-colon. Here we take the results of promise_result , get the rust string (lossy) from it, and Rust returns that as the result of the Ok(res) statement... which is the result of the match statement, which is the result of the async move block / saved in the future (which is of type [Future](https://doc.rust-lang.org/std/future/trait.Future.html). ",
+											"",
+										    "Note that we've now closed the async block and now we need to [wait for the future to be resolved](https://users.rust-lang.org/t/can-an-async-functions-result-be-returned-without-awaiting-on-it/62279) (with the value returned, as described above... but whose type is actually hard to know as humans (listen to what the compiler is telling you the type is, I think you can not (currently) declare the type returned from the async block.)",
+											"",
+											"Note we are now (back) in the same level / scope as we first declared future.",
+											"`          tokio_runtime.block_on(future)`",
+										    "`\t});`",
+                                                                                    "",
+											"`   handle.join().unwrap()`",
+											"",
+											"What we're doing here is we have Tokio block on the future being resolved. Now this is inside that extra thread we've spawned because the Tokio thread driver runs on the main thread and thus it won't let you block that thread.",
+											"",
+											"`handle.join().unwrap()` will unwrap the result of the thread, which is the result of the future, which is our string from Node.",
+											"",
+										    "## Q: wait does execute_script know about ES modules?",
+                                                                                    "",
+											"A: no. There are functions in DenoCore that handle ES modules, and can run Typescript (not Javascript) through Deno. However, we can avoid those performance costs by using esbuild to transpire Typescript or ES modules to CommonJS syntax.",
+											"\n",
+											""
+										]
+									},
+									"attachments": [
+										{
+											"title": "5.8 JS Runtime - The Internals of Deno",
+											"url": "https://choubey.gitbook.io/internals-of-deno/foundations/jsruntime"
+										},
+										{
+											"title": "JsRuntimeInspector in deno_core - Rust",
+											"url": "https://docs.rs/deno_core/latest/deno_core/struct.JsRuntimeInspector.html#"
+										},
+										{
+											"title": "javascript - How to understand JS realms",
+											"url": "https://stackoverflow.com/questions/49832187/how-to-understand-js-realms"
+										},
+										{
+											"title": "JSRuntime",
+											"url": "https://docs.rs/deno_core/latest/deno_core/struct.JsRuntime.html"
+										},
+										{
+											"title": "Another example of Javascript -> Rust Ops",
+											"url": "https://deno.com/blog/roll-your-own-javascript-runtime#adding-a-basic-filesystem-api"
+										},
+										{
+											"title": "Process Lifecycle - A Guide to Deno Core",
+											"url": "https://denolib.gitbook.io/guide/advanced/process-lifecycle"
+										}
+									]
+								},
+								{
+									"title": "Dealing with V8 Objects",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Sometimes Deno Core is too high level, and you need to interact with V8 objects directly.",
+											"",
+										    "## Injecting a variable into the runtime (Simple case) - aka \"making a global variable\"",
+                                                                                    "",
+										    "here's how",
+                                                                                    "```rust",
+											"                  let mut scope = runtime.handle_scope();",
+											"                  let variable_context = scope.get_current_context();",
+											"                  let global = variable_context.global(&mut scope);",
+											" \t\t\t\t\t\t let myobjectvalue = v8::String::new(&mut scope, \"this is the value\").unwrap();",
+											"                  let myobjectname = v8::String::new(&mut scope, \"Injected\").unwrap();",
+											"                  global.set(&mut scope, my_object_name.into(), my_object_value.into());",
+											"",
+										    "",
+                                                                                    "```",
+											"On the Javascript side, `console.log(injected)` will Just Work",
+											"",
+											"This same pattern is used to make larger objects: each thing needs a value, a name for that value and a some kind of place to put that variable. set with the name and the value.",
+											"",
+										    "## Grabbing a global variable from the context to inject more stuff into it",
+                                                                                    "",
+										    "A great example is [on the deno core discussion board](https://github.com/denoland/deno/discussions/19232#discussioncomment-5982622).",
+											"",
+											"## Downcasting various V8 objects to v8::Value objects",
+											"(may just be a Rust newbie issue, but here we go)",
+											"Everything inherits from v8::Value, but the Rust compiler ?? won't explicitly downcast ??",
+										    "",
+                                                                                    "```rust",
+											"                    let str = v8::String::new(&mut scope, \"hi\").unwrap();",
+											"                    let str: v8::Local<v8::Value> = v8::Local::from(str);",
+										    "",
+                                                                                    "```",
+											"",
+											"## Putting a Vector into a Javascript Array",
+										    "v8::Array does have a `new_with_elements` factory function, but (Rust Newbie) I couldn't figure out how to make the compiler do what I want. It also shows some interesting concepts.",
+                                                                                    "```rust",
+                                                                                    "",
+											"    let exclude = vec![\"one\", \"two\", \"three\"];",
+											"    let exclude_out_array = v8::Array::new(&mut scope, 0);",
+											"    for i in 0..exclude.len() {",
+											"          let str = v8::String::new(&mut scope, &exclude[i]).unwrap();",
+											"          let str: v8::Local<v8::Value> = v8::Local::from(str);",
+											"          exclude_out_array.set_index(&mut scope, (i as u32), str);",
+											"    }",
+										    "",
+                                                                                    "```",
+											"",
+										    "## Putting a vector into a Javascript array (better)",
+                                                                                    "",
+                                                                                    "```rust",
+                                                                                    "",
+											"    fn vec_to_vec_of_values<'s>(",
+											"        scope: &mut v8::HandleScope<'s>,",
+											"        vec: Vec<String>,",
+											"    ) -> Vec<v8::Local<'s, v8::Value>> {",
+											"        vec.into_iter()",
+											"            .map(|s| v8::String::new(scope, s.as_str()).unwrap().into())",
+											"            .collect()",
+										    "    }",
+                                                                                         "let include_out_array = v8::Array::new_with_elements(&mut scope, vec_to_vec_of_values(&mut scope, my_vector);",
+										    "",
+                                                                                    "```",
+											""
+										]
+									},
+									"attachments": [
+										{
+											"title": "Value in v8 - Rust",
+											"url": "https://docs.rs/v8/0.71.0/v8/struct.Value.html"
+										},
+										{
+											"title": "inserting global variables",
+											"url": "https://github.com/denoland/deno/discussions/19232"
+										}
+									]
+								},
+								{
+									"title": "Potentially useful code snippets",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+										    "## macro: put string into object",
+                                                                                    "",
+                                                                                    "```rust",
+											"/*",
+											"  The reason why we use macros for things that normally an ordinary function would do for",
+											"is to avoid errors from Rust about too many mutable borrows. Since every reference to the JSRuntime",
+											"acts on either a _mutable_ JSRuntime or other objects with mutablitily, this makes it easy to run into",
+											"compile errors with regular functions.",
+											"",
+											"(You could argue that from Rust's perspective what happens in v8 is an implementation detail, or you could argue",
+											"that we ARE in fact changing state so the mutability modifer is technically correct.... which is of course the",
+											"best kind of correct, especially when it makes other people's lives harder.",
+											"",
+											"Since macros are injected inline there's _technically_ no _actual_ function call going on that would change",
+											"the borrow status or lifetime of the JSRuntime variable",
+											" */",
+											"",
+											"#[macro_export]",
+											"macro_rules! put_string_into_object {",
+											"    ($scope: expr, $obj: expr, $name: expr, $value: expr) => {{",
+											"        let key = v8::String::new(&mut $scope, $name).unwrap();",
+											"        let value = v8::String::new(&mut $scope, $value.as_str()).unwrap();",
+											"",
+											"        $obj.set(&mut $scope, key.into(), value.into());",
+											"    }};",
+										    "}",
+                                                                                    "```",
+											"",
+										    "## Turn a Vector<String> into Vector<v8::Value>",
+                                                                                    "",
+                                                                                    "```rust",
+											"// without specifying the lifetime this causes compiler errors",
+											"    fn vec_to_vec_of_values<'s>(",
+											"        scope: &mut v8::HandleScope<'s>,",
+											"        vec: Vec<String>,",
+											"    ) -> Vec<v8::Local<'s, v8::Value>> {",
+											"        vec.into_iter()",
+											"            .map(|s| v8::String::new(scope, s.as_str()).unwrap().into())",
+											"            .collect()",
+											"    }\n\n\n    let include_out_array = v8::Array::new_with_elements(&mut scope, vec_to_vec_of_values(&mut scope, my_vector);",
+											"",
+										    "",
+                                                                                    "```"
+										]
+									},
+									"attachments": []
+								}
+							]
+					}
+                                        ]
+}
