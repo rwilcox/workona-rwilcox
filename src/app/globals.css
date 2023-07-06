@@ -33,6 +33,16 @@ h1 {
     font-weight: bold;
 }
 
+div.renderedMarkdownInside h2 {
+    font-size: 110%;
+    font-style: italic;
+    margin-top: 1em;
+}
+
+div.renderedMarkdownInside a {
+    color: blue;
+}
+
 code {
     background-color: white;
     font-family: "Courier New"

@@ -14,7 +14,8 @@ export default function Home() {
             <div class="grid grid-flow-row grid-cols-1">
             <ul className="list-disc">
 
-                    <li key="/cloudFunctions"><a href="/cloudFunctions">GCP Cloud Functions</a></li>
+            <li key="/cloudFunctions"><a href="/cloudFunctions">GCP Cloud Functions</a></li>
+            <li key="/jsFromRustView"><a href="/jsFromRustViaDeno">JS From Rust via Deno</a></li>
                 </ul>
             </div>
       </Layout>
