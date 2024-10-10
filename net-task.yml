@@ -4,3 +4,6 @@ tasks:
   start_app:
     shell: |
       npm run dev
+  deploy:prod:
+    shell: |
+      bash ./deploy-scripts/deploy-prod.sh
