@@ -8,7 +8,7 @@ export default function Home() {
             <Layout>
             <div className="grid grid-flow-row grid-cols-1">
                 <div className="col-span-1">
-                  <h1 className="w-full items-center text-center">Workona Readonly Public Export Tool</h1>
+                  <h1 className="w-full items-center text-center">My Knowledgebase (mostly from Workona)</h1>
                 </div>
             </div>
             <div class="grid grid-flow-row grid-cols-1">
