@@ -1,0 +1,589 @@
+
+				{
+					"title": "Microsoft Copilot Studio",
+					"color": "orange",
+					"tabs": [],
+					"resources": [
+                                          {
+							"title": "Building",
+							"resources": [
+								{
+									"title": "Create expressions using Power Fx (preview) - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-power-fx#use-variables-in-a-formula"
+								},
+								{
+									"title": "Use entities and slot filling in copilots - Microsoft Copilot Studio | Microsoft Learn",
+									"description": "Briefly talks about automatic slot filling here (it's automatic??????!)",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-entities-slot-filling#slot-filling"
+								},
+								{
+									"title": "Slot filling best practices - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/slot-filling-best-practices"
+								}
+							]
+						},
+						{
+							"title": "Enterprise Concerns",
+							"resources": [
+								{
+									"title": "Add end-user authentication to topics - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-end-user-authentication?tabs=web"
+								},
+								{
+									"title": "Configure user authentication with Microsoft Entra ID - Microsoft Copilot Studio | Microsoft Learn",
+									"description": "ie if you're building internal Copilots and want your users to sign in",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/configuration-authentication-azure-ad"
+								}
+							]
+						},
+						{
+							"title": "Extending",
+							"resources": [
+								{
+									"title": "Copilot connectors and actions overview (preview) - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/copilot-plugins-overview"
+								},
+								{
+									"title": "Configure a Bot Framework skill - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/configuration-add-skills"
+								},
+								{
+									"title": "Code view and Power Fx - Training | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/training/modules/unified-authoring-online-workshop/code-view-power-function"
+								},
+								{
+									"title": "Exercise - Build a basic Power Automate flow in Microsoft Copilot Studio - Training | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/training/modules/build-flows-chatbot-online-workshop/exercise-build-flow"
+								}
+							]
+						},
+						{
+							"title": "Customizing the user's experience",
+							"resources": [
+								{
+									"title": "Use prompt modification to provide custom instructions to your copilot - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-generative-answers-prompt-modification"
+								},
+								{
+									"title": "Customize the look and feel of a copilot - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/customize-default-canvas?tabs=web"
+								}
+							]
+						},
+						{
+							"title": "Costs etc",
+							"resources": [
+								{
+									"title": "Assign user licenses and manage access - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing?tabs=web"
+								}
+							]
+						},
+						{
+							"title": "Deployment",
+							"resources": [
+								{
+									"title": "Power Platform environments overview - Power Platform | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/power-platform/admin/environments-overview#types-of-environments"
+								},
+								{
+									"title": "Export and import copilots using solutions - Microsoft Copilot Studio | Microsoft Learn",
+									"description": "How to do CI/CD ? Use a Power Platform solution to move things",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-export-import-bots?tabs=webApp"
+								},
+								{
+									"title": "Add a copilot to mobile or custom apps - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-connect-bot-to-custom-application#get-direct-line-token"
+								}
+							]
+						},
+						{
+							"title": "LLM / AI Specific",
+							"resources": [
+								{
+									"title": "AI features for Teams and Classic copilots - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-ai-features?tabs=web%2F%3Fazure-portal%3Dtrue"
+								},
+								{
+									"title": "mslearn-developer-tools-power-platform/in-a-day at master · MicrosoftDocs/mslearn-developer-tools-power-platform",
+									"url": "https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/in-a-day"
+								}
+							]
+						},
+						{
+							"title": "Resources",
+							"resources": [
+								{
+									"title": "Microsoft Copilot Studio | Customize or Create Copilots",
+									"description": "The home page / how to access Copilot Studio",
+									"url": "https://copilotstudio.microsoft.com/"
+								},
+								{
+									"title": "Official Microsoft Copilot Studio documentation - Microsoft Copilot Studio | Microsoft Learn",
+									"description": "Central Documentation landing page",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/"
+								},
+								{
+									"title": "Building your own copilot with Copilot Studio | Microsoft Copilot Blog",
+									"url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-your-own-copilot-with-copilot-studio/"
+								},
+								{
+									"title": "Quotas, limits, app registration, certificates, and configuration values - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-quotas#overview"
+								},
+								{
+									"title": "mslearn-developer-tools-power-platform/in-a-day at master · MicrosoftDocs/mslearn-developer-tools-power-platform",
+									"description": "Training files from Github",
+									"url": "https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/in-a-day"
+								}
+							]
+						},
+						{
+							"title": "Security",
+							"resources": [
+								{
+									"title": "Configure web and Direct Line channel security - Microsoft Copilot Studio | Microsoft Learn",
+									"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-web-security"
+								},
+								{
+									"title": "Securing the usages of your bot",
+									"description": "",
+									"url": "https://learn.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-webchat?view=azure-bot-service-4.0#option-1---exchange-your-secret-for-a-token-and-generate-the-embed"
+								}
+							]
+						}
+					],
+					"notes": [
+                                          {
+							"title": "_Building_",
+							"notes": [
+                                                          {
+                                                            "title": "You should probably begin here first",
+                                                            "description": {
+                                                              "isNoteContent": true,
+                                                              "lines": [
+                                                                "## Starting Places (Context for my notes at all)",
+                                                                "Notes etc:",
+                                                                "* [Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)",
+                                                                "* Copilot is brand name both for the Microsot / Github Copilots AND any custom copilot one may create ie for your business.",
+                                                                "* These notes were mostly made for me, with my context. Sorry if they only make sense to Ryan"
+                                                              ]
+                                                            }
+                                                          },
+{
+									"title": "Basic Concepts",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"",
+											"## Key Areas to consider",
+											"Language, Text & Speech, Gen AI & NLU & Authoring, Channel Experiences. Personality of the bot, how do I look / react. Alignment of bots with organizational goals and how it aligns with why you built bot in first place.",
+											"",
+											"",
+											"",
+											"## Environments ",
+											"Copilot (and Copilot Studio) goes in your Power Platform Environment!",
+											"",
+											"Space to store, manage and share your business data. Environments may have different roles etc. This is a Power Platform environment.\n",
+											"Power Platform environment types (spoilers: Production, Default, Sandbox, Trial, Developer, Dataverse for Teams)",
+											"",
+											"## Workflows",
+											"determine intent (topic) -> ",
+											"Did not find? NLP/LLM generative answer -> Escalation to a live agent via Escalate topic / \"Unknown Intent\" trigger.  ",
+											"Did find? Work it",
+											"",
+											"## Topics",
+											"A topic represents some portion of a conversational thread between a user and a copilot. You define and work with topics on an authoring canvas. A topic contains one or more conversation nodes,\n which together define the conversational paths that a topic can take. \nEach node performs an action, such as sending a message or asking a \nquestion. Source\n\nIncludes topics you define as well as system topics you may - but probably shouldn't if it's your first rodeo - modify, topics like Conversation Start, Conversation Stop, Conversation Boot, End Conversation, and Escalate.\n",
+											"",
+											"## Information Sources",
+											"Supported Knowledge Sources. (But: public website, Documents in dataverse, OneDrive, Dataverse over the data graph)",
+											"",
+											"## Generative Answers",
+											"_Generative answers can be used as primary information sources or as a_",
+											"_fallback source when authored topics can't answer a user's query_",
+											"",
+											"",
+											"Generative answers aren't limited to fallback scenarios. Your copilot \ncan also use other web sites, external or internal web sources, AI \ngeneral knowledge, and knowledge sources such as SharePoint or OneDrive.\n",
+											"Actions",
+											"(not the generative kind)",
+											"",
+											"## Generative Actions",
+											"Instead of using trigger phrases for each topic copilot can select the most appropriate action at runitem",
+											"",
+											"",
+											"",
+											"## App Registration",
+											"App registration is a process that assigns a unique identifier and a \nsecret key to a copilot, allowing it to communicate with different \nchannels and services.\n",
+											"The app registration doesn't grant access to any customer data or \nresources, nor does it expose any sensitive information about the \ncopilot. "
+										]
+									},
+									"attachments": []
+								},
+								{
+									"title": "Building Topic flows",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"## Variables",
+											"",
+											"Variables from topics are by default only available in the topic that you extract it. You can make a variable GLOBAL",
+											"",
+											"You can also set a variable to a particular thing: Set Variable is a node you can create",
+											"",
+											"The variable can be a custom value that uses Power Fx, a user-entered \nvalue, a response from a question, or system variable values. Source\n",
+											"A variable can be accessed via PowerFX by using Topic.(variable name) or System.(variable name) or Global.(variable name)",
+											"",
+											"## Optional Question Nodes",
+											"Go into the dots side on the right side of the node, and Question Behavior. ",
+											"",
+											"## Actions",
+											"",
+											"Custom Action -> Create A Flow launches a Power Automate Power Virtual Agents Flow Template",
+											"",
+											"## Topic Factoring",
+											"\nCan use Topics like functions: because you can trigger Topics from other topics",
+											"",
+											"## Interesting neat features",
+											"You can see the YAML that the Copilot studio is technically building for you. Dots menu on the right side of the topic's toolbar.",
+											""
+										]
+									},
+									"attachments": []
+								},
+								{
+									"title": "Building the Site Helper Chatbot",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Can create a new copilot then point it to URL of a Bing Indexed Website",
+											"Instructions for same.",
+											"",
+											"You can let it access data from the larger Internet, or restrict it's information ie creating a medium size language model"
+										]
+									},
+									"attachments": []
+								},
+								{
+									"title": "Writing a wrapper OVER the chat system",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"You can create a conversation ID then use some of Azure Bot Framework's code to talk to the user through an intermediate program. See attached resource."
+										]
+									},
+									"attachments": [
+										{
+											"title": "How to add to mobile or custom apps",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-connect-bot-to-custom-application"
+										}
+									]
+								}
+							]
+						},
+						{
+							"title": "_Deployment_",
+							"notes": [
+								{
+									"title": "Deployment Destinations",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"## Where is my copilot deployed in my Power Environment? What Solution?",
+											"",
+											"During bot You would use the Advanced Options section to specify which solution to create the bot in.\n",
+											"You can also see where it is by going into Settings -> Copilot details",
+											"",
+											"",
+											"\n",
+											"",
+											"",
+											"## Different ways your users can interact with your bots",
+											"Called publishing to a \"channel\". Can be published to multiple channels.",
+											"",
+											"Available Channels includes custom website, demo website, Teams, etc",
+											"",
+											"## Web Channel Deployment",
+											"",
+											"Easy Mode: Add your Copilot to your website . Spoilers: shove it in an iframe",
+											"",
+											"Harder mode: the non iFrame version (allows some customization AND I think includes things like passing context into the Copilot. ",
+											"",
+											"Harder mode uses existing Microsoft technologies: DirectLine and WebChat and layers your created Copilots under that.",
+											""
+										]
+									},
+									"attachments": []
+								},
+								{
+									"title": "Deployment through environments (CI/CD)",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Right now the answer to how to do CI/CD is to \"export the copilot then import it towards the other place\". You can make a Power Apps Solution to promote the artifact.",
+											"",
+											"You export and import copilots by exporting and importing the solutions that contain them from one environment to another. Source\n",
+											"You Export the solution from one environment, then go in and Import the solution in the other Power App Environment in Power Apps.\n",
+											"## Notes",
+											"can't export managed solutions (solutions are managed by default)",
+											"Don't name Copilots with periods!!!!",
+											"... large Copilots currently need the Power Apps Portal to do this",
+											"You may need to set up user authentication again",
+											"Once a publish your imported copilot you must publish it",
+											"",
+											"",
+											"\n",
+											""
+										]
+									},
+									"attachments": [
+										{
+											"title": "Export and Import Copilots using Solutions",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-export-import-bots?tabs=webApp"
+										}
+									]
+								}
+							]
+						},
+						{
+							"title": "_Costs, etc_",
+							"notes": [
+								{
+									"title": "Costs & Limits",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Copilot Studio access: $200/month/TENANT <-- ie your org",
+											"with Office 365 integration: $300/month/tenant",
+											"Copilot Studio seats: $0/month\n",
+											"",
+											"Power Platform Licensing guide provides more detail about usage:",
+											"",
+											"25,000 \"messages\" (I call them \"message units\") / month/tenant/\"capacity pack\" across ALL created Copilots",
+											"",
+											"Note that the \"Microsoft Copilot Studio Trial\" free trial license isn't really a full fledged experience, and may not work for things in an enterprise tenant (although it seems less limited for a very small 365 \"business\").\n",
+											"## Notes:",
+											"",
+											"  * This capacity is pooled across the entire tenant but it must be assigned to an environment in to enable Microsoft Copilot Studio features for copilots in the environment.\n",
+											"  * HOWEVER: messages that result in a GenAI call will be billed at 2 message units per message.",
+											"",
+											"## Understanding Your Current Usage / Budget",
+											"Noting that the copilot usage is bought per tenant, analytics are provided per copilot. Currently there may be no screen to see combined usages across all copilots. (Worth checking on, as that info may have been from a document that is deprecated or has deprecated parts)",
+											"",
+											"Limits: ",
+											"8,000 RPM / \"dataverse\""
+										]
+									},
+									"attachments": [
+										{
+											"title": "Assign user licenses and manage access - Microsoft Copilot Studio | Microsoft Learn",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing?tabs=web"
+										}
+									]
+								},
+								{
+									"title": "",
+									"description": null,
+									"attachments": []
+								}
+							]
+						},
+
+						{
+							"title": "_Notes_",
+							"notes": [
+								{
+									"title": "Integration with company resources",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"## Development Things",
+											"",
+											"During app registration it creates a service account",
+											"To let copilots communicate with your data sources and services, Copilot\n Studio creates an application in your Microsoft Entra ID tenant, along \nwith an associated service principal. A service principal is an identity\n that represents an application and allows it to access resources in \nyour tenant. Copilot Studio controls the credentials to the service \nprincipal, which is an encrypted certificate.\n\nAlso comes from a published list of IPs, for allow-listing purposes",
+											"",
+											"## Enterprise Services",
+											"",
+											"Hand off to ServiceNow",
+											"",
+											"",
+											"## Places where Copilot Studio can interact with your company's bought Microsoft products",
+											"Various Connectors are available for Copilot Studio: ",
+											"",
+											"* Sharepoint <-- including authenticated resources, it will make the user authenticate if required",
+											"* Power Platform",
+											"* Copilot Studio subsumes what used to be called \"Power Virtual Agents\"",
+											"* Power Automate",
+											"* Power Apps",
+											"* PowerBI",
+											"* Teams",
+											"* Azure (Cloud) <-- can also include Amazon",
+											"* Azure AD",
+											"* Azure DevOps"
+										]
+									},
+									"attachments": [
+										{
+											"title": "Using Power Platform Connectors",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-connectors"
+										}
+									]
+								},
+								{
+									"title": "Related Technologies",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Azure AI Bot Service (also called Microsoft or Azure Bot Framework)",
+											"See Choosing Right Chatbot Solution.",
+											"",
+											"",
+											"High-level description of each technology:",
+											"",
+											"Microsoft Copilot Studio is a user-friendly no-code solution, leverages AI to create chatbots, offers a range of features  such as AI integration and easy deployment across various channels.",
+											"",
+											"Azure AI Bot Services is a coding-based platform that empowers seasoned developers to build and deploy intelligent, fully customizable bots.",
+											"",
+											"Source. \n\n",
+											"",
+											"Power Virtual Agents",
+											"",
+											" Power Virtual Agents capabilities and features are now part of Copilot Studio"
+										]
+									},
+									"attachments": []
+								},
+								{
+									"title": "Limitations and suggested use cases",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Source. ",
+											"",
+											"Limitations:",
+											"  * Limited CI/CD options",
+											"  * Scaling might be limited to Microsoft Copilot Studio Subscription tiers",
+											"",
+											"Recommended Use Cases:",
+											"  * No code environments",
+											"  * Subscription Based Pricing",
+											"  * Microsoft recommends using Copilot Studio whenever feasible. This is the technology that Microsoft is actively improving to meet the needs of chatbot developers. \n\n"
+										]
+									},
+									"attachments": []
+								}
+							]
+						},
+						{
+							"title": "_Security_",
+							"notes": [
+								{
+									"title": "Avoiding Bots, Attackers, and Malicious Use",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"## Copilot ID",
+											"",
+											"When you create a Microsoft Copilot Studio copilot, it's immediately available in the Demo website and Custom website channels to anyone who knows the copilot ID. These channels are available by default, and no configuration is needed. Source",
+											"## Securing what your copilot can do / how the copilot does things on behalf of the user",
+											"Likely by limiting what the created service account can do",
+											"",
+											"Knowledge Sources: If user authorizes the Copilot will use ie Entra to authorize to those resources. ",
+											"",
+											"For Actions (ie that call a formerly known as Power Virtual Agents) you can enable authentication for AI actions or have it use the Copilot Author's Authentication Source. ",
+											"",
+											"(but what seems to be missing is an option for the copilot service principle ??????)",
+											"",
+											"Securing Your application for use by your own self",
+											"",
+											"See Tokens note"
+										]
+									},
+									"attachments": []
+								},
+								{
+									"title": "Tokens",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"## How token works",
+											"",
+											"Constraint 1:",
+											"If you're writing an app where the client runs in a web browser or \nmobile app, or otherwise the code might be visible to customers, you \nmust exchange your secret for a token. If you don't use a token, your \nsecret can be compromised. When you're making the request to acquire the\n token in your service, specify the secret in the authorization header.\n",
+											"Tokens only work for a single conversation and expire unless refreshed.\n\nAcquiring the token using the secret in your service code is the most \nsecured way to protect your Microsoft Copilot Studio copilot.",
+											"\nSource\n",
+											"",
+											"## Mobile - and advanced web app - Direct Line Token",
+											"The Token Endpoint in the mobile app channel settings is your Direct Line Token URL  Which gives you a Direct Line Token.",
+											"(it calls blah-blah/directline/token without any bearer authorization or parameters or anything) <-- note this is different than the generate URL below, which requires a secret). In fact you can call this URL with a simple GET request in your browser.",
+											"",
+											"This returns you a conversation id and a token (good for one conversation)",
+											"",
+											"## How to do it",
+											"The solution where you deeply customize the look and feel of your copilot uses the mobile token generation endpoint (and gets a direct line token that way)",
+											"\nQ: BUT WAIT, WHAT'S THE SECURITY AROUND THAT SIMPLE TOKEN ENDPOINT??!!!",
+											"A: ",
+											"",
+											"## Background on Azure Bot Framework and Tokens",
+											"Microsoft Copilot Studio stuff rapidly wanders into Azure Bot Framework,and it's sub features WebChat and DirectLine, at least in the customization side of things.",
+											"",
+											"The Azure Bot Framework makes you use blah-blah/directline/token/generate with a secret. For that the answer on how to keep the secret safe is to make a server side app that does it and only returns the results of that call to your frontend",
+											"",
+											"On the front end, pass the token from that service as the token you pass to ",
+											"` WebChat.createDirectLine` ",
+											"",
+											"Sample of how to call the bot, on behalf of the user, ie you do everything serverside an entirely write your own experience. (included because you could just do the first thing, but it's good to know you have an option of being 100% in the middle).\n",
+											"TLDR",
+											"Make a server side app that generates a token based on the current secret. ",
+											"\n\n ",
+											"(Bot Framework) WebChat / DirectLine Token+Secret Recommendations",
+											"",
+											"In the web deployment situations Microsoft uses Direct Line and WebChat (things already created for Azure Bot Framework) . ",
+											"",
+											"Microsoft recommends if you \"want to make it difficult for other developers to embed your bot in their website\" you have your server get a token ( and conversation ID) from the server, render the HTML with the \"only good for one conversation\" token and done. (or do an AJAX request to your own servers for it)",
+											"",
+											"See Production Embedding Option (but note that implicity assumes - note the YOUR TOKEN SERVER/API path - this server side logic deployed.",
+											"",
+											"(If you want to make it easy just embed the secret on the page and either exchange that for a token there - or call the token endpoint that Microsoft Copilot Studio gives you - and then people could just use it on their thing easily!)",
+											""
+										]
+									},
+									"attachments": [
+										{
+											"title": "Configure Web and Direct Line Channel Security",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-web-security#enable-or-disable-web-channel-security"
+										},
+										{
+											"title": "Connect Bot to Custom Application",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-connect-bot-to-custom-application"
+										},
+										{
+											"title": "Embedding the WebChat and token considerations",
+											"url": "https://learn.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-webchat?view=azure-bot-service-4.0#option-1---exchange-your-secret-for-a-token-and-generate-the-embed"
+										}
+									]
+								},
+								{
+									"title": "Analytics",
+									"description": {
+										"isNoteContent": true,
+										"lines": [
+											"Admins can download a CSV of the entire conversations: the back and forth, in addition to the status of the interaction (abandoned, etc etc)"
+										]
+									},
+									"attachments": [
+										{
+											"title": "Understanding Transcripts",
+											"url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-sessions-transcripts"
+										}
+									]
+								}
+							]
+						}
+					],
+					"tasks": [
+						{
+							"title": "Tasks",
+							"tasks": []
+						}
+					]
+				}

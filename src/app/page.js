@@ -16,6 +16,7 @@ export default function Home() {
 
             <li key="/cloudFunctions"><a href="/cloudFunctions">GCP Cloud Functions</a></li>
             <li key="/jsFromRustView"><a href="/jsFromRustViaDeno">JS From Rust via Deno</a></li>
+            <li key="/copilotStudio"><a href="/copilotStudio">Microsoft Copilot Studio</a></li>
                 </ul>
             </div>
       </Layout>
