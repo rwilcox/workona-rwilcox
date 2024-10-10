@@ -58,7 +58,7 @@ function displayNotesArray(notesArray) {
                 }
                 // eslint-disable-next-line react/jsx-key
                 return (<div className="my-8">
-                        <h1>{current.title}</h1>
+                        <h1><ReactMarkdown>{current.title}</ReactMarkdown></h1>
                         {notes}
                         {markdown}
                         {attachments}
