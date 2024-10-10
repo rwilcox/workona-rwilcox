@@ -1,0 +1,6 @@
+version: 1
+name: workona-rwilcox
+tasks:
+  start_app:
+    shell: |
+      npm run dev
