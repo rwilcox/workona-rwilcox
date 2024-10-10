@@ -51,3 +51,21 @@ code {
 div.renderedMarkdownInside p {
     font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
+
+ul {
+    list-style-type: disc; /* Bulleted list for unordered list */
+    margin-left: 20px; /* Optional: Add some left margin */
+}
+
+ol {
+    list-style-type: decimal; /* Numbered list for ordered list */
+    margin-left: 20px; /* Optional: Add some left margin */
+}
+
+div.renderedMarkdownInside ol li {
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+div.renderedMarkdownInside ul li {
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
